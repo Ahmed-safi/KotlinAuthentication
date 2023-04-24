@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463416267725",
+    "project_id": "kotlinauthentication-579eb",
+    "storage_bucket": "kotlinauthentication-579eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463416267725:android:6b2acf7a62579ed74d2a84",
+        "android_client_info": {
+          "package_name": "com.example.kotlinauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463416267725-a4pas7bo9rr919cvvpo52a4270kllp5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTOLWwrqoKpop5tL8qnz8swx8tLxfD_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463416267725-a4pas7bo9rr919cvvpo52a4270kllp5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
